@@ -2,5 +2,5 @@
 echo 'foobar';
 echo 'works';
 
-echo '<button>';
+echo '<button></button>';
 ?>
